@@ -8,7 +8,7 @@
 def main():
     # This function adds up two numbers
 
-    # input 
+    # input
     first_number = int(input("Enter the first number:"))
     second_number = int(input("Enter the second number:"))
 
@@ -18,6 +18,8 @@ def main():
     # output
     print("")
     print("The answer is {0}.".format(answer))
+    print("")
+    print("Done.")
 
 
 if __name__ == "__main__":
