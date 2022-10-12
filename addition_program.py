@@ -17,7 +17,7 @@ def main():
 
     # output
     print("")
-    print("The answer is {0}.".format(answer))
+    print("{0} + {1} = {2}.".format(first_number, second_number, answer))
     print("")
     print("Done.")
 
